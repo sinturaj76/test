@@ -1,2 +1,2 @@
-Hello, From index.txt Creating First File in Github
-This is Edit by Wasim Anwar
+Hello, From index.txt Updating First File in Github
+This is Edit by Wasim Anwar. 
